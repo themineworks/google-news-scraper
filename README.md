@@ -12,6 +12,13 @@ Python client for **[Google News Scraper: Headlines & Brand Monitor](https://api
 pip install apify-client
 python3 google_news_scraper.py --token YOUR_APIFY_TOKEN --query "artificial intelligence"
 ```
+### Node.js
+
+```bash
+npm install apify-client
+node google_news_scraper.mjs --token YOUR_APIFY_TOKEN --token YOUR_APIFY_TOKEN --query "artificial intelligence"
+```
+
 
 Get a free API token: [console.apify.com/sign-up](https://console.apify.com/sign-up) — then find it under **Settings → API & Integrations**.
 
