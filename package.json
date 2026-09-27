@@ -1,14 +1,15 @@
 {
   "name": "google-news-scraper",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "type": "module",
-  "description": "Node.js client for the themineworks/google-news Apify actor",
+  "description": "Headlines, sources, and publication dates as structured JSON. Python, Node.js and cURL clients for the Google News Scraper on Apify, pay per result.",
   "main": "google_news_scraper.mjs",
   "scripts": {
     "start": "node google_news_scraper.mjs"
   },
   "dependencies": {
-    "apify-client": "^1.9.2"
+    "apify-client": "^2.9.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/google-news/"
 }
