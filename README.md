@@ -5,7 +5,7 @@ Scrape Google News headlines, sources, and publication dates by keyword or topic
 **Run it on Apify:** [apify.com/themineworks/google-news](https://apify.com/themineworks/google-news)
 **Docs, FAQ and pricing:** [themineworks.com/actors/google-news](https://themineworks.com/actors/google-news/)
 
-**Price:** $0.001 per article on Apify's free plan, plus a $0.005 start fee per run. Failed and empty results are never charged.
+**Price:** From $1.00 per 1,000 articles on Apify's higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged.
 
 ## What it returns
 
@@ -13,7 +13,7 @@ Scrape Google News headlines, sources, and publication dates by keyword or topic
 * Search by keyword, topic, or company name
 * Filter by language, region, and recency
 * Returns article URL and publisher name
-* Zero charge on empty searches
+* Empty results are never charged
 
 ## Quick start
 
@@ -136,7 +136,7 @@ Yes. Run the scraper on a schedule via Apify's scheduler (hourly or daily) to tr
 
 ### How much does the Google News Scraper cost?
 
-$0.001 per article on Apify's free plan, plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
+From $1.00 per 1,000 articles on Apify's higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
 
 ### Can I export the results to CSV or Excel?
 
